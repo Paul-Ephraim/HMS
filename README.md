@@ -8,7 +8,7 @@ A comprehensive SQL-based Hospital Management System designed to handle clinical
 The following diagram illustrates the complex relationships between Patients, Staff, Departments, and medical operations.
 
 <p align="center">
-  <img src="HMS_Demo.gif" width="100%" alt="HMS ERD Diagram">
+  <img src="HMS_Demo.gif" alt="HMS ERD Diagram">
 </p>
 
 ---
