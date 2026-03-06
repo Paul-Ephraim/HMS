@@ -51,6 +51,9 @@ The system is built on a relational architecture using **MySQL**. Key modules in
 2. **NotePad++**
 3. **DB Diagram** - [dbdiagram.io](https://dbdiagram.io/home)
 4. **Python** - [Script](gen.ipynb)
+---
+### Changes 
+1. Addded a foreign key constraint to the OT Technician Table  -  [sql script](add_constraint.sql)
 
 ---
 <p align ="center">
