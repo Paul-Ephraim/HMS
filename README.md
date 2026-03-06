@@ -55,7 +55,7 @@ The system is built on a relational architecture using **MySQL**. Key modules in
 
 ---
 <p align ="center">
-  <h1>THANK YOU</h1>
+  <h1> THANK YOU</h1>
 </p>
 
 ---
