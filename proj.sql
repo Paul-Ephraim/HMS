@@ -314,3 +314,7 @@ CREATE TABLE
         FOREIGN KEY (Equip_Id) REFERENCES Equipments (Equipment_Id),
         FOREIGN KEY (Dept_Id) REFERENCES Departments (Department_Id)
     );
+
+use hos_ms;
+
+select
